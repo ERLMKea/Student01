@@ -1,0 +1,3 @@
+spring.h2.console.enabled=true
+#husk kopier jdbc url fra Spring console. user er sa, password er blank.
+#kan se såden her ud: url=jdbc:h2:mem:2fa6aaa2-0047-4d85-bc1f-1c6aef645170 , man skal ikke kopiere url=
